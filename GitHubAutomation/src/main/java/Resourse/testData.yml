@@ -1,0 +1,12 @@
+username: swarnima15
+password: laptopmobile6#
+Url: https://github.com/
+repoName: test1
+editReadMeFolder: edited
+clone_shFile_path: /home/swarnimagupta/Desktop/demo.sh
+pull_shFile_path: /home/swarnimagupta/Desktop/pulling.sh
+txtFileName: ABC.txt
+commitMessage: added by script
+clone_batFilePath: C:\Users\garimabhanot\Desktop\demo.bat
+pull_batFile_path: C:\Users\garimabhanot\Desktop\pulling.bat
+read_me_file_path: /home/swarnimagupta/Desktop/test1/README.md

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sample test Suite]">
+  <test name="Repo Creation test(failed)">
+    <classes>
+      <class name="com.qait.automation.GitHubAutomation.TestNgClass">
+        <methods>
+          <include name="case5"/>
+          <include name="initialize"/>
+          <include name="case2"/>
+          <include name="case3"/>
+          <include name="case1"/>
+          <include name="case4"/>
+        </methods>
+      </class> <!-- com.qait.automation.GitHubAutomation.TestNgClass -->
+    </classes>
+  </test> <!-- Repo Creation test(failed) -->
+</suite> <!-- Failed suite [Sample test Suite] -->
